@@ -1,2 +1,17 @@
 # Luna
-A theme for Nikola
+This is a beautiful theme for Nikola. It is based on the Jekyll theme Moon. I love Moon and Python very much, so I build this theme for Nikola and named it Luna.
+
+# Features
+- Minimal, you can focus on your content
+- Responsive
+- Syntax highlighting
+- Optional post image
+- Social icons
+- Optional background image
+- Simple navigation menu
+- MathJax support
+
+# Preview
+
+
+# Guide
