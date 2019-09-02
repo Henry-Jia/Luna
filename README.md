@@ -11,7 +11,3 @@ This is a beautiful theme for Nikola. It is based on the Jekyll theme Moon. I lo
 - Simple navigation menu
 - MathJax support
 
-# Preview
-
-
-# Guide
